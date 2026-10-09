@@ -1,7 +1,7 @@
 # Klike — privacy policy
 
 The privacy policy for **Klike**, a free offline app that teaches computer
-skills in Haitian Creole, published by EBOLD.
+skills in Haitian Creole, published by Pierre Charles Plaisir (EBOLD).
 
 Served by GitHub Pages: <https://plaisir93.github.io/klike-privacy/>
 
